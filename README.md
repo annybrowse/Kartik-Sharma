@@ -1,4 +1,5 @@
-![logo](https://github.com/annybrowse/Kartik-Sharma/blob/fec07c776be8a0591ee8f63f149878b28fc7d542/images.jpg)
+![images](https://github.com/annybrowse/Kartik-Sharma/assets/127379595/aa2c958a-6d76-4712-84a4-db6ac8e284d6)
+
 <h1 align="center">Hi 👋, I'm Kartik Sharma</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 <img align="right"alt="coding"width="400"src="http://www.reddit.com/r/perfectloops/comments/1f2vy0/the_matrix/.gif">
